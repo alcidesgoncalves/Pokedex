@@ -1,7 +1,7 @@
 
 function index(){
-    let ans = document.getElementById('ans');
-    return ans.value;
+    let answer = document.getElementById('ans');
+    return answer.value;
 }
 
 async function getPokemonTypes() {

@@ -241,6 +241,14 @@ button:hover{
   border-color: #d547d5
 }
 
+@media screen and (max-width: 800px){
+  .box {
+    width: 50%;
+
+  }
+  
+}
+
 @media screen and (max-width: 624px){
   .center {
     margin-left: 26%;
@@ -251,14 +259,6 @@ button:hover{
 @media screen and (max-width: 400px){
   .center {
     margin-left: 16%;
-  }
-  
-}
-
-@media screen and (max-width: 800px){
-  .box {
-    width: 50%;
-
   }
   
 }
